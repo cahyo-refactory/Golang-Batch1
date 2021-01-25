@@ -1,0 +1,67 @@
+Git :
+siapakah merge:
+- PM, Tech Lead, Senior
+- membuat role, atau berdasarkan fitur --> komunikatif
+
+IDE :
+- Netbeans
+- Dev C
+- Android studio
+- Vis Code --> gunakan ini
+- Notepad ++
+- Atom
+- Submlime
+- Jupiter
+
+Golang :
+- Git
+- visual studio Code
+- golang
+
+
+gaya coding:
+- Snake Case -> semua huruf kecil, dipisahkan underscore --> json
+- Camel case -> pada kata pertama kecil huruf besar --> 
+Java : 
+Huruf besar --> kelas
+Huruf kecil --> variabel atau function
+
+Golang :
+kita tidak boleh menulis variabel | library yang tidak digunakan
+folder berisi banyak file dan disetiap file memiliki function
+
+Agile dan Scrum
+Agile -> pola pikir atau kebiasaan:
+- Identifikasi masalah atau peluang --> Solutif
+- Tindak lanjut
+- time line : terus menerus | periodik 
+-> terus menerus lebih dari 8 jam -> HR atau PM, tech Lead
+
+Scrum -> kerangka kerja
+- transparasi --> tidak transparasi akan muncul assign maka scrum gagal
+- inspeksi
+- adaptasi
+
+Sprint itu dibuat, diperlihatkan tiket, setiap tiket Story point, 
+-> apakah story point udah cuup untuk 1 sprint 
+
+contoh :
+sprint aktif perminggu, setiap orang wajib memiliki 10 story point
+1 hari = 2 story point
+
+---> edukasi klien
+
+
+Permasalahan dengan klien:
+- Perjanjian kontrak
+    - kontrak itu ada yang general -> tanda tangan dua belah pihak
+    - kontrak change request -> tanda tangan dua belah pihak
+    - - minor > minta tambahan waktu atau ganti biaya
+    - - mayor > minta tambahan waktu dan biaya
+- Metode pengembangan / kerangka kerja
+    - kalau metode scrum pastikan klien paham apa itu Scrum
+- kapan projek selesai
+    - lulus UAT
+    - base on tanggal dan waktu
+    - Maintenance
+
